@@ -13,6 +13,7 @@
   <meta name="og:type" content="product" />
   <meta name="og:description" content="SURGA33 adalah platform resmi untuk seluruh pecinta permainan slot yang mencari kemenangan besar setiap hari dan muncul sebagai link alternatif untuk login slot online. Jangan lewatkan kesempatan daftar emas ini sekarang!"/>
   <meta name="og:image" content="https://i.postimg.cc/kMffL9tC/p40.jpg" />
+  <meta name="google-site-verification" content="EtTbk6uNG6MejxTZoJHthDmzDsWvfWOnDON4zoG-GGg" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="icon" type="image/x-icon" href="https://id.wikipedia.org/static/favicon/wikipedia.ico"/>
   <link rel="canonical" href="https://jurnal.isi-ska.ac.id/cache/web/index.php" />
